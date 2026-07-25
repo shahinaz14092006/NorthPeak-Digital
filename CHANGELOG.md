@@ -1,4 +1,4 @@
-# Optimization Changelog
+
 
 ## Performance
 - Optimized image assets by using SVG illustrations.

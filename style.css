@@ -1,6 +1,4 @@
-/* =========================
-   GOOGLE FONT & RESET
-========================= */
+/* GOOGLE FONT & RESET*/
 
 * {
     margin: 0;
@@ -29,9 +27,7 @@ body {
     font-weight:600;
 }
 
-/* =========================
-   VARIABLES
-========================= */
+/*VARIABLES*/
 
 :root {
     --primary: #2563EB;
@@ -44,9 +40,7 @@ body {
     --radius: 18px;
 }
 
-/* =========================
-   COMMON
-========================= */
+/*COMMON*/
 
 section {
     padding: 90px 8%;
@@ -79,9 +73,7 @@ h2 {
     font-size: 2.3rem;
 }
 
-/* =========================
-   NAVBAR
-========================= */
+/* NAVBAR*/
 
 header {
     position: fixed;
@@ -153,9 +145,7 @@ header {
 
 }
 
-/* =========================
-   HERO
-========================= */
+/* HERO*/
 
 .hero {
 
@@ -238,8 +228,6 @@ header {
     transform:translateY(-5px);
     box-shadow:0 15px 30px rgba(37,99,235,.35);
 }
-
-/*  */
 
 /* Hero Stats */
 
@@ -328,9 +316,7 @@ header {
     }
 
 }
-/* =========================
-   ABOUT SECTION
-========================= */
+/* ABOUT SECTION*/
 
 .about {
     background: #ffffff;
@@ -370,9 +356,7 @@ header {
     color: var(--gray);
 }
 
-/* =========================
-   SERVICES
-========================= */
+/* SERVICES*/
 
 .services {
     background: #F8FAFC;
@@ -418,9 +402,7 @@ header {
     color: var(--gray);
 }
 
-/* =========================
-   WHY CHOOSE US
-========================= */
+/* WHY CHOOSE US*/
 
 .why-us {
     background: #ffffff;
@@ -459,9 +441,7 @@ header {
 .why-card p {
     color: var(--gray);
 }
-/* ===================================
-   TESTIMONIALS
-=================================== */
+/* TESTIMONIALS*/
 
 .testimonials {
     background: #f8fafc;
@@ -505,9 +485,7 @@ header {
 }
 
 
-/* ===================================
-   PRICING
-=================================== */
+/* PRICING*/
 
 .pricing {
     background: white;
@@ -575,9 +553,7 @@ header {
 }
 
 
-/* ===================================
-   CONTACT
-=================================== */
+/* CONTACT*/
 
 .contact {
     background: #f8fafc;
@@ -633,9 +609,7 @@ header {
 }
 
 
-/* ===================================
-   FOOTER
-=================================== */
+/* FOOTER */
 
 footer {
     background: var(--dark);
@@ -651,9 +625,7 @@ footer a {
 footer a:hover {
     text-decoration: underline;
 }
-/* ==========================================
-   TESTIMONIALS
-========================================== */
+/* TESTIMONIALS*/
 
 .testimonials{
     background:#F8FAFC;
@@ -723,9 +695,7 @@ footer a:hover {
     background:var(--primary);
 
 }
-/* ==========================================
-   PRICING
-========================================== */
+/* PRICING */
 
 .pricing{
     background:#fff;
@@ -817,9 +787,7 @@ footer a:hover {
     font-weight:600;
 }
 
-/* ==========================================
-   CONTACT
-========================================== */
+/* CONTACT*/
 
 .contact{
     background:#F8FAFC;
@@ -908,9 +876,7 @@ footer a:hover {
     color:green;
 }
 
-/* ==========================================
-   FOOTER
-========================================== */
+/* FOOTER*/
 
 footer{
 
@@ -978,9 +944,7 @@ footer{
     color:#38BDF8;
 
 }
-/* ===============================
-   SCROLL REVEAL
-=============================== */
+/* SCROLL REVEAL*/
 
 .about-card,
 .service-card,
@@ -1003,11 +967,9 @@ footer{
     transform:translateY(0);
 
 }
-/* ==========================================
-   RESPONSIVE DESIGN
-========================================== */
+/* RESPONSIVE DESIGN*/
 
-/* ---------- Tablets ---------- */
+/*Tablets */
 
 @media (max-width: 992px){
 
@@ -1066,7 +1028,7 @@ grid-template-columns:repeat(2,1fr);
 
 }
 
-/* ---------- Mobile ---------- */
+/* Mobile */
 
 @media (max-width:768px){
 
@@ -1168,7 +1130,7 @@ gap:12px;
 
 }
 
-/* ---------- Small Phones ---------- */
+/*  Small Phones  */
 
 @media (max-width:480px){
 

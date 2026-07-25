@@ -1,6 +1,4 @@
-// ===============================
 // MOBILE NAVIGATION
-// ===============================
 
 const menuBtn = document.querySelector(".menu-btn");
 const navLinks = document.querySelector(".nav-links");
@@ -9,19 +7,14 @@ menuBtn.addEventListener("click", () => {
     navLinks.classList.toggle("active");
 });
 
-// ===============================
 // SMOOTH CLOSE MENU
-// ===============================
-
 document.querySelectorAll(".nav-links a").forEach(link => {
     link.addEventListener("click", () => {
         navLinks.classList.remove("active");
     });
 });
 
-// ===============================
 // CONTACT FORM VALIDATION
-// ===============================
 
 const form = document.getElementById("contactForm");
 const successMessage = document.getElementById("successMessage");
@@ -60,9 +53,7 @@ form.addEventListener("submit", function (e) {
 
 });
 
-// ===============================
 // SCROLL REVEAL
-// ===============================
 
 const revealElements = document.querySelectorAll(
     ".about-card, .service-card, .why-card, .testimonial-card, .price-card"
