@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # NorthPeak Digital – Agency Landing Page
 
 A modern, responsive one-page agency website built for the **Digital Heroes Internship Qualification Task**.
@@ -74,7 +73,7 @@ Add your GitHub repository link here.
 ---
 
 **Built for Digital Heroes Training Task**  
-=======
+https://digitalheroesco.com
 # NorthPeak Digital – Agency Landing Page
 
 A modern, responsive one-page agency website built for the **Digital Heroes Internship Qualification Task**.
@@ -150,5 +149,4 @@ Add your GitHub repository link here.
 ---
 
 **Built for Digital Heroes Training Task**  
->>>>>>> 099f18f29ebcc0c0b4838edb7604a951f511160e
 https://digitalheroesco.com
