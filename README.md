@@ -62,7 +62,7 @@ NorthPeak-Digital/
 
 AI tools were used to content ideas, improve copywriting, and review the project structure. All design decisions, implementation, testing, debugging, and the final code were completed and verified by me.
 
-## 🌐 Live Demo
+## Live Demo
 
 https://shahinaz14092006.github.io/NorthPeak-Digital/
 
